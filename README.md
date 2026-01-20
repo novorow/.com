@@ -4,7 +4,6 @@ Official website for **Novorow** - a technology-focused brand covering tech even
 Offers graphic design and video editing services.
 
 ## Stack
-- Framer (design & export)
 - HTML / CSS
 - Netlify (hosting)
 - GitHub (version control)
@@ -19,7 +18,6 @@ This site is automatically deployed via Netlify from the `main` branch.
 - `apple-touch-icon.png`
 
 ## Development Notes
-- Site is exported from Framer.
 - Manual edits may be overwritten on re-export.
 
 ## License
