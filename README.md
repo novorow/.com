@@ -1,7 +1,7 @@
 # Novorow Website
-
-Official website for **Novorow** – a technology-focused brand covering tech events, product launches, and platform updates.
-Offers graphic design and video editing services.
+A multidisciplinary studio creating brands, motion-driven visuals, and video experiences for modern digital audiences.
+Offering graphic design and video editing services.
+YouTube channel covers how technology updates, with my perspective on new products, major announcements, and various applications.
 
 ## Stack
 - HTML / CSS
